@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kalam&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(255, 49, 142);
+}
+
+.tit .tit2 .tit3, body main .title .titulo {
+  text-align: center;
+  font-family: "Lobster", cursive;
+}
+
+.Hector div h2, .DavidZepeda div h2, .DavidR div h2, .repo div h2, .Test_case div h2, .rapsody div h2, .Doors div h2, .spects div h2, body main .conclu .conclusion .cls, body main .resul .results .res, body main .meto .metodologi .met, body main .intro .introdcution .int, body main .abs .abstract .absh2 {
+  text-align: center;
+  font-family: "Lobster", cursive;
+}
+
+body main .title .integrates {
+  text-align: center;
+  font-family: "Lobster", cursive;
+}
+
+.Hector .grid-container3 .item-2 h5, .DavidZepeda .grid-container2 .item-2 h5, .DavidR .grid-container .item-2 h5 {
+  text-align: center;
+  font-family: "Lobster", cursive;
+}
+
+body main .conclu .conclusion div .para6, body main .resul .results div .para5, body main .meto .metodologi div .para4, body main .intro .introdcution div .para3, body main .abs .abstract div .para2 {
+  text-align: justify;
+  font-family: "Kalam", cursive;
+  font-size: 20px;
+}
+
+.Hector .grid-container3 .item-1 img, .DavidZepeda .grid-container2 .item-1 img, .DavidR .grid-container .item-1 img {
+  display: block; /* Asegura que la imagen se comporte como un bloque */
+  margin: 0 auto;
+  width: 300px;
+  height: 450px;
+  border-radius: 5%;
+}
+
+.Hector .grid-container3 .item-2 img, .DavidZepeda .grid-container2 .item-2 img, .DavidR .grid-container .item-2 img {
+  width: 90px;
+  height: 90px;
+  align-items: flex-end;
+  border: 20px solid transparent;
+}
+
+.Hector .grid-container3 .item-2 .btn, .DavidZepeda .grid-container2 .item-2 .btn, .DavidR .grid-container .item-2 .btn {
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  margin: 10px;
+}
+body main .title .logo img {
+  display: block;
+  margin: auto;
+  padding: 40px;
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}
+.spects {
+  border: 15px;
+  padding: 40px;
+  margin: 20px;
+}
+.Doors {
+  border: 15px;
+  padding: 40px;
+  margin: 20px;
+}
+.rapsody {
+  border: 15px;
+  padding: 40px;
+  margin: 20px;
+}
+.Test_case {
+  border: 15px;
+  padding: 40px;
+  margin: 20px;
+}
+.repo {
+  border: 15px;
+  padding: 40px;
+  margin: 20px;
+}
+.repo div .btn_center {
+  width: 200px;
+  height: 200px;
+}
+.repo div .btn_center img {
+  width: 200px;
+  height: 200px;
+}
+
+.DavidR {
+  margin: 6rem 1rem 6rem 1rem;
+}
+.DavidR .grid-container {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+  gap: 0px;
+  /* Espacio entre las columnas */
+}
+.DavidR .grid-container .item-1 {
+  background-color: transparent;
+}
+.DavidR .grid-container .item-2 {
+  background-color: #ff006f;
+  padding: 20px;
+}
+.DavidZepeda {
+  margin: 6rem 1rem 6rem 1rem;
+}
+.DavidZepeda .grid-container2 {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+  gap: 0px;
+  /* Espacio entre las columnas */
+}
+.DavidZepeda .grid-container2 .item-1 {
+  background-color: transparent;
+}
+.DavidZepeda .grid-container2 .item-2 {
+  background-color: #ff006f;
+  padding: 20px;
+}
+.Hector {
+  margin: 6rem 1rem 6rem 1rem;
+}
+.Hector .grid-container3 {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+  gap: 0px;
+  /* Espacio entre las columnas */
+}
+.Hector .grid-container3 .item-1 {
+  background-color: transparent;
+}
+.Hector .grid-container3 .item-2 {
+  background-color: #ff006f;
+  padding: 20px;
+}
+.foter {
+  font-family: "Pacifico", cursive;
+  text-align: center;
+  background: rgb(254, 195, 0);
+  border: 10px solid rgb(254, 195, 0);
+  padding: 40px;
+  margin: 10px;
+}/*# sourceMappingURL=base.css.map */

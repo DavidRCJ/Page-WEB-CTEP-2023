@@ -1,0 +1,65 @@
+.spects{
+    border: 15px;
+    padding: 40px;
+    margin: 20px;
+    div{
+        h2{
+            @extend %titulo2;
+        }
+    }
+}
+
+.Doors{
+    border: 15px;
+    padding: 40px;
+    margin: 20px;
+    div{
+        h2{
+            @extend %titulo2;
+        }
+    }
+}
+
+
+.rapsody{
+    border: 15px;
+    padding: 40px;
+    margin: 20px;
+    div{
+        h2{
+            @extend %titulo2;
+        }
+    }
+}
+
+.Test_case{
+    border: 15px;
+    padding: 40px;
+    margin: 20px;
+    div{
+        h2{
+            @extend %titulo2;
+        }
+    }
+}
+
+.repo{
+    border: 15px;
+    padding: 40px;
+    margin: 20px;
+    div{
+        h2{
+            @extend %titulo2;
+        }
+    }
+    div{
+        .btn_center{
+                width: 200px;
+                height: 200px;
+                img{
+                    width: 200px;
+                    height: 200px;
+                }
+        }    
+    }
+}

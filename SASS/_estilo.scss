@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+%titulo1 {
+    text-align: center;
+    font-family: 'Lobster', cursive;    
+}
+
+%titulo2{
+    text-align: center;
+    font-family: 'Lobster', cursive;   
+}
+
+%titulo3 {
+    text-align: center;
+    font-family: 'Lobster', cursive;   
+}
+
+%titulo4 {
+    text-align: center;
+    font-family: 'Lobster', cursive;   
+}
+
+%titulo5 {
+    text-align: center;
+    font-family: 'Lobster', cursive;   
+}
+%parrafo{
+    text-align: justify;
+    font-family: 'Kalam', cursive;
+    font-size: 20px;
+    
+}
+%imagen{
+    display: block; /* Asegura que la imagen se comporte como un bloque */
+    margin: 0 auto;
+    width: 300px;
+    height: 450px;
+    border-radius: 5%;
+}
+%img_icon {
+    width: 90px;
+    height: 90px;
+    align-items: flex-end;
+    border: 20px solid transparent;
+  }
+  %botum_center {
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+  }

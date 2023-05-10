@@ -1,0 +1,129 @@
+.tit {
+    .tit2 {
+        .tit3 {
+            @extend %titulo1;
+        }
+    }
+}
+
+.DavidR {
+    margin: 6rem 1rem 6rem 1rem;
+    div {
+        h2 {
+            @extend %titulo2;
+        }
+    }
+
+    .grid-container {
+        display: grid;
+        grid-template-rows: 1fr;
+        grid-template-columns: 1fr 1fr;
+        gap: 0px;
+        /* Espacio entre las columnas */
+
+        .item-1 {
+            background-color: transparent;
+
+            img {
+                @extend %imagen;
+            }
+        }
+
+        .item-2 {
+            background-color: #ff006f;
+            padding: 20px;
+            h5 {
+                @extend %titulo5;
+              }
+              .btn {
+                @extend %botum_center;
+              }
+              img {
+                @extend %img_icon;
+              }
+        }
+    }
+    
+}
+
+
+.DavidZepeda {
+    margin: 6rem 1rem 6rem 1rem;    
+    div {
+        h2 {
+            @extend %titulo2;
+        }
+    }
+
+    .grid-container2 {
+        display: grid;
+        grid-template-rows: 1fr;
+        grid-template-columns: 1fr 1fr;
+        gap: 0px;
+        /* Espacio entre las columnas */
+
+        .item-1 {
+            background-color: transparent;
+
+            img {
+                @extend %imagen;
+            }
+        }
+
+        .item-2 {
+            background-color: #ff006f;
+            padding: 20px;
+            h5 {
+                @extend %titulo5;
+              }
+              .btn {
+                @extend %botum_center;
+              }
+              img {
+                @extend %img_icon;
+              }
+        }
+    }
+    
+}
+
+
+.Hector {
+    margin: 6rem 1rem 6rem 1rem;
+    div {
+        h2 {
+            @extend %titulo2;
+        }
+    }
+
+    .grid-container3 {
+        display: grid;
+        grid-template-rows: 1fr;
+        grid-template-columns: 1fr 1fr;
+        gap: 0px;
+        /* Espacio entre las columnas */
+
+        .item-1 {
+            background-color: transparent;
+
+            img {
+                @extend %imagen;
+            }
+        }
+
+        .item-2 {
+            background-color: #ff006f;
+            padding: 20px;
+            h5 {
+                @extend %titulo5;
+              }
+              .btn {
+                @extend %botum_center;
+              }
+              img {
+                @extend %img_icon;
+              }
+        }
+    }
+    
+}
