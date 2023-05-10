@@ -8,6 +8,17 @@ body {
   background-color: rgb(255, 49, 142);
 }
 
+video {
+  position: fixed;
+  min-width: 100%;
+  max-height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
 .tit .tit2 .tit3, body main .title .titulo {
   text-align: center;
   font-family: "Lobster", cursive;

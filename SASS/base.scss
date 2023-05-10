@@ -4,7 +4,15 @@ body {
     background-color: rgb(255, 49, 142);
     
   }
-  
+  video {
+    position: fixed;
+    min-width: 100%;
+    max-height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    object-fit: cover;
+  }
   @import "_estilo";
   @import "_index";
   @import "_project";
