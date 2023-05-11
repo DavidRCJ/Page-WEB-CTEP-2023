@@ -1,9 +1,9 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: rgb(255, 49, 142);
     
-  }
+    
+  
   video {
     position: fixed;
     min-width: 100%;
@@ -13,6 +13,7 @@ body {
     z-index: -1;
     object-fit: cover;
   }
+}
   @import "_estilo";
   @import "_index";
   @import "_project";
