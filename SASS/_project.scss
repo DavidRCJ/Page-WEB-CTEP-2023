@@ -21,7 +21,8 @@
 }
 
 
-.rapsody{
+
+.Window{
     border: 15px;
     padding: 40px;
     margin: 20px;
@@ -56,7 +57,10 @@
         .btn_center{
                 width: 200px;
                 height: 200px;
+                border-radius: 10%;
                 img{
+                    border-radius: 10%;
+                    background-color: rgb(255, 179, 0);          
                     width: 200px;
                     height: 200px;
                 }

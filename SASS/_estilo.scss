@@ -3,10 +3,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
 %titulo1 {
     text-align: center;
+    font-size: 50px;
     font-family: 'Lobster', cursive;    
+    color: rgb(255, 230, 0);
 }
 
 %titulo2{
+    color: rgb(255, 230, 0);
+    font-size: 40px;
     text-align: center;
     font-family: 'Lobster', cursive;   
 }
@@ -17,16 +21,20 @@
 }
 
 %titulo4 {
+    color: beige;
     text-align: center;
     font-family: 'Lobster', cursive;   
 }
 
 %titulo5 {
+    color: rgb(255, 217, 0);
     text-align: center;
     font-family: 'Lobster', cursive;   
 }
 %parrafo{
+    color: rgb(254, 254, 254);
     text-align: justify;
+    font-size: 50px;
     font-family: 'Kalam', cursive;
     font-size: 20px;
     
@@ -37,7 +45,7 @@
     width: 300px;
     height: 450px;
     border-radius: 5%;
-}
+} 
 %img_icon {
     width: 90px;
     height: 90px;

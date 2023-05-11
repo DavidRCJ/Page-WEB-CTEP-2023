@@ -1,2 +1,2 @@
-# Page-WEB-CTEP-2023
-Page web for the project fo CTEP 2023 CONTINENTAL
+# Page-Web-Proyect-CTEP-2023
+Develop pagae web for the CTEP
