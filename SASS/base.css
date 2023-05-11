@@ -43,7 +43,7 @@ body .Hector .grid-container3 .item-2 h5, body .DavidZepeda .grid-container2 .it
   font-family: "Lobster", cursive;
 }
 
-body .Hector .grid-container3 .item-2 p, body .DavidZepeda .grid-container2 .item-2 p, body .DavidR .grid-container .item-2 p, body main .conclu .conclusion div .para6, body main .resul .results div .para5, body main .meto .metodologi div .para4, body main .intro .introdcution div .para3, body main .abs .abstract div .para2 {
+body .Hector .grid-container3 .item-2 p, body .DavidZepeda .grid-container2 .item-2 p, body .DavidR .grid-container .item-2 p, body .Test_case div object p, body .Window div object p, body .Doors div object p, body .spects div object p, body main .conclu .conclusion div .para6, body main .resul .results div .para5, body main .meto .metodologi div .para4, body main .intro .introdcution div .para3, body main .abs .abstract div .para2 {
   color: rgb(254, 254, 254);
   text-align: justify;
   font-size: 50px;

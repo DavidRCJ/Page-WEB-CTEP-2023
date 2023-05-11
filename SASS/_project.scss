@@ -11,6 +11,13 @@ body{
             @extend %titulo2;
         }
     }
+    div{
+        object{
+            p{
+                @extend %parrafo;
+            }
+        }
+    }
 }
 
 .Doors{
@@ -20,6 +27,13 @@ body{
     div{
         h2{
             @extend %titulo2;
+        }
+    }
+    div{
+        object{
+            p{
+                @extend %parrafo;
+            }
         }
     }
 }
@@ -35,6 +49,13 @@ body{
             @extend %titulo2;
         }
     }
+    div{
+        object{
+            p{
+                @extend %parrafo;
+            }
+        }
+    }
 }
 
 .Test_case{
@@ -44,6 +65,13 @@ body{
     div{
         h2{
             @extend %titulo2;
+        }
+    }
+    div{
+        object{
+            p{
+                @extend %parrafo;
+            }
         }
     }
 }
